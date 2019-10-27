@@ -1,0 +1,25 @@
+body {
+  text-decoration: none;
+  outline-width: 0;
+  box-shadow: none !important;
+}
+.btn {
+  background-color: transparent !important;
+  color: rgb(44, 43, 43) !important;
+  font-weight: bold !important;
+  border-color: rgb(44, 43, 43) !important;
+}
+.bg {
+  position: absolute;
+  z-index: -1;
+  width: 1135px;
+  height: 750px;
+}
+.container {
+  position: absolute;
+  top: 20%;
+}
+.content {
+  padding: 20px;
+  text-align: center;
+}

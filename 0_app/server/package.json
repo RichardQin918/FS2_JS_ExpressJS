@@ -1,0 +1,14 @@
+{
+  "name": "fs_express",
+  "version": "1.0.0",
+  "description": "fs2 expressJS ",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "author": "Ziming Qin",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
